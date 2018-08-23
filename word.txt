@@ -1,4 +1,4 @@
-git add  first merge class
+gitm add  first merge class
 first time modified
 master
 modified at dev branc
