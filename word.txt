@@ -2,3 +2,5 @@ git first class
 first time modified
 master
 modified at dev branc
+mod in master branch
+mod in dev branch
