@@ -1,4 +1,4 @@
-git first class
+git add  first master class
 first time modified
 master
 modified at dev branc
