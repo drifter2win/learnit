@@ -3,6 +3,5 @@ gitdev add first dev class
 first time modified
 master
 modified at dev branc
-mod in master branch
-mod in dev branch
 add by dev2
+change by dev2
